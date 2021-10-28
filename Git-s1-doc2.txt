@@ -1,0 +1,29 @@
+COMANDOS PARA MODIFICAR REPOSITORIO 
+
+Desde la terminal, en la carpeta donde tenemos el repositorio ejecutamos los siguientes comandos:
+
+git status					--> Para ver los archivos que se pueden actualizar - aparecen en rojo
+git log 					--> Información del repositorio
+git add .       			--> Para agregar todos los archivos
+git add archivo.txt  		--> Para agregar un archivo específico
+git status					--> Para ver los archivos que se van a actualizar - aparecen en verde
+
+git commit -m "Nombre de la actualización"   --> Configurar la actualización, ponerle nombre
+git push									 --> Enviar la actualización (si genera error usan el siguiente codigo)
+
+git push origin HEAD:master                  -->Enviar actualización rama master
+
+
+JohanSA7									-->Mi username
+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 	-->Token de acceso, se pone en password, el token lo pueden generar en ajustes de perfil
+												en la seccion --> Settings /Developer settings/Personal access tokens
+
+Feliz domingo c:
+
+
+git pull					 Bajar cambios del repositorio remoto: git pull
+
+
+git branch --set-upstream-to=origin/master master
+
+git tag --- Para versionar el codigo
