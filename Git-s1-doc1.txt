@@ -18,8 +18,6 @@ JohanSA7									-->Mi username
 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 	-->Token de acceso, se pone en password, el token lo pueden generar en ajustes de perfil
 												en la seccion --> Settings /Developer settings/Personal access tokens
 
-Feliz domingo c:
-
 
 git pull					 Bajar cambios del repositorio remoto: git pull
 
